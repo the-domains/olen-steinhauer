@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Olen Steinhauer]]></title>
         <description><![CDATA[Olen Steinhauer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/olen-steinhauer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 18:12:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Apr 2016 18:20:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/olen-steinhauer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e86b65a4-6afd-4e66-a3d8-96ec10451ac7.jpg">]]></description>
+            <link>https://thegrid.ai/olen-steinhauer/f3289f40-1f9d-4105-8d38-26c600b0ce1f/index.html</link>
+            <guid isPermaLink="false">f3289f40-1f9d-4105-8d38-26c600b0ce1f</guid>
+            <pubDate>Fri, 08 Apr 2016 18:19:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f305eaf-795c-41a9-9ef9-e790fe0c9252.jpg">]]></description>
-            <link>undefined9a1758b5-f639-4161-a9c1-ef4398b749c8/index.html</link>
+            <link>https://thegrid.ai/olen-steinhauer/9a1758b5-f639-4161-a9c1-ef4398b749c8/index.html</link>
             <guid isPermaLink="false">9a1758b5-f639-4161-a9c1-ef4398b749c8</guid>
             <pubDate>Fri, 08 Apr 2016 18:12:38 GMT</pubDate>
         </item>
